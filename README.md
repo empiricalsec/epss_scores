@@ -1,4 +1,4 @@
-# epss_score_history
+# EPSS Scores
 Historical scores for EPSS
 
 # EPSS Data
