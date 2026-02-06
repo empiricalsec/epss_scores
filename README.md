@@ -1,5 +1,11 @@
-# EPSS Scores
-Historical scores for EPSS
+# Introduction
+The [Exploit Prediction Scoring System](https://www.first.org/epss/) (EPSS) is a data-driven 
+effort for estimating the likelihood (probability) that a software vulnerability will be exploited 
+in the wild. 
+
+This is the official repository for current and historical EPSS Scores. Scores are also available
+for [direct download](https://www.first.org/epss/data_stats), or scores for individual 
+vulenrabilities can be retrieved throug the [FIRST API](https://api.first.org/epss/).
 
 # EPSS Data
 
