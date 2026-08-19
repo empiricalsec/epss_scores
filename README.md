@@ -5,7 +5,7 @@ in the wild.
 
 This is the official repository for current and historical EPSS Scores. Scores are also available
 for [direct download](https://www.first.org/epss/data.html), or scores for individual 
-vulenrabilities can be retrieved throug the [FIRST API](https://api.first.org/epss/).
+vulnerabilities can be retrieved through the [FIRST API](https://api.first.org/epss/).
 
 # EPSS Data
 
