@@ -4,8 +4,8 @@ effort for estimating the likelihood (probability) that a software vulnerability
 in the wild. 
 
 This is the official repository for current and historical EPSS Scores. Scores are also available
-for [direct download](https://www.first.org/epss/data_stats), or scores for individual 
-vulenrabilities can be retrieved throug the [FIRST API](https://api.first.org/epss/).
+for [direct download](https://www.first.org/epss/data.html), or scores for individual 
+vulnerabilities can be retrieved through the [FIRST API](https://api.first.org/epss/).
 
 # EPSS Data
 
